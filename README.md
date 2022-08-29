@@ -8,7 +8,7 @@ This is the front end of my personal project, it's a dummy website that i create
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/william-cordeiro-568229238/)
 
-You can access the website of this project at [AusMainPage](https://willcordeiro.github.io/SocialMediaGhpages/](https://willcordeiro.github.io/AUSmainPage/))
+You can access the website of this project at [AusMainPage](https://willcordeiro.github.io/AUSmainPage/)
 
 
 ### what you need to have to run this project
