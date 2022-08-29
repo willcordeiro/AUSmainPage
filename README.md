@@ -1,4 +1,4 @@
-# Social Media App
+# Aus page
 
 ![ausWebsite](https://user-images.githubusercontent.com/98745885/187316652-5be6b98b-4bb8-4f88-9cfa-98646542aa3e.png)
 
